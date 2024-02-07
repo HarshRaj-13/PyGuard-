@@ -3,7 +3,7 @@ Automated Door Lock System using Python language
 
 ## 📋 <a name="table">Table of Contents</a>
 1. 🔗 [Demo](#links)
-2. 🤖 [Introduction](#introduction)
+2. 🤖 [Introduction](#links)
 3. ⚙️ [Objectives](#Objectives)
 4. 🔋 [List](#List)
 5. 👌 [Benefits of using voice command](#benefits)
@@ -12,7 +12,7 @@ Automated Door Lock System using Python language
 
 https://github.com/HarshRaj-13/PyGuard-/assets/127778323/a8d75d33-0ce9-4db1-990e-f04a93fe2af2)https://github.com/HarshRaj-13/PyGuard-/assets/127778323/a8d75d33-0ce9-4db1-990e-f04a93fe2af2
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="links">🤖 Introduction</a>
 This project is to create a Voice Activated Desktop Assistant with the use of  Python programming language.Voice assistants are software agents that can interpret human speech and respond via synthesized voices. Apple’s Siri, Amazon’s Alexa, Microsoft’s Cortana, and Google’s Assistant are the most popular voice assistants and are embedded in smartphones or dedicated home speakers.
 
 ## <a name="Objectives">⚙️ Objectives</a>
