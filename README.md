@@ -5,7 +5,7 @@ Automated Door Lock System using Python language
 1. 🔗 [Demo](#links)
 2. 🤖 [Introduction](#introduction)
 3. ⚙️ [Objectives](#Objectives)
-4. 🔋 [LIST OF FIGURES](#List)
+4. 🔋 [LIST_OF_FIGURES](#List)
 5. 👌 [Benefits of using voice command](#benefits)
 
 ## <a name="links">🔗 Demo</a>
@@ -20,7 +20,7 @@ This project is to create a Voice Activated Desktop Assistant with the use of  P
 - This project is used to activate Servo Motor using voice command with the use of Python programming language.
 - By making this voice activated Servo Motor , Our project can be extended further, such as in making robotic arms , automatic door , mini plotter. 
 
-## <a name="List">🔗 LIST OF FIGURES</a>
+## <a name="List">🔗 LIST_OF_FIGURES</a>
 
 | Figure No.    | Description   |
 | ------------- | ------------- |
